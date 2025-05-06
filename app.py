@@ -6,9 +6,9 @@ def index():
     return (
 
         "Fullname: Inah Laine M. Pacatang<br>"
-        "Section: BSIT 3A 1st 25<br>"
-        "Subject: System Integration<br>"
-        "Semi_Final Exam"
+        "Section: BSIT 3A 2nd 25<br>"
+        "Subject: System Integration and Architecture 1<br>"
+        "Semi-Final Exam"
     )
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 5000))
